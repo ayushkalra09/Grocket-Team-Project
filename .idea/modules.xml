@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Online_Grocery_Store-master/General_Stores/General_Stores.iml" filepath="$PROJECT_DIR$/Online_Grocery_Store-master/General_Stores/General_Stores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grocket.iml" filepath="$PROJECT_DIR$/.idea/Grocket.iml" />
+    </modules>
+  </component>
+</project>
